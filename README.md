@@ -3,7 +3,7 @@
 
 A Spring Boot–based Hospital Management System that digitizes the traditional hospital token process by enabling online appointment booking, QR-based ticket validation, and real-time Email notifications.
 The system securely connects patients, doctors, and administrators using JWT-based authentication.
-Backend-only repository. Frontend code is maintained separately: 
+Backend-only repository. Frontend code is maintained separately: https://github.com/arunpusala7/healthconnect-os-frontend.git
 
 🎯 Key Goals
 
