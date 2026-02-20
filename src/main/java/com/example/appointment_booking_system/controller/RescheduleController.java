@@ -9,7 +9,7 @@ import java.time.LocalDate;
 
 @RestController
 @RequestMapping("/api/reschedule")
-@CrossOrigin(origins = "http://localhost:5173")
+//@CrossOrigin(origins = "http://localhost:5173")
 public class RescheduleController {
 
     private final RescheduleService service;

@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 // ✅ CHANGED: Allow ALL origins ("*") so your HTML Scanner file can connect
-@CrossOrigin(origins = "*")
+//@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/api/appointments")
 public class AppointmentController {

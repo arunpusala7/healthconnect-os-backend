@@ -10,7 +10,7 @@ import java.time.LocalDate;
 
 @RestController
 @RequestMapping("/api/waitlist")
-@CrossOrigin(origins = "*") // Allows React/HTML to access this
+//@CrossOrigin(origins = "*") // Allows React/HTML to access this
 public class WaitlistController {
 
     @Autowired

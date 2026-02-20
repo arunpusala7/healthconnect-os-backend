@@ -4,7 +4,7 @@ import com.example.appointment_booking_system.entity.Doctor;
 import com.example.appointment_booking_system.service.DoctorService;
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin(origins = "http://localhost:5173")
+//@CrossOrigin(origins = "http://localhost:5173")
 @RestController
 @RequestMapping("/api/admin/doctors")
 public class AdminDoctorController {
