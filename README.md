@@ -1,4 +1,4 @@
-🏥 Hospital Management System – Backend (Spring Boot)
+🏥 Hospital Management System | Appointment Booking System– Backend (Spring Boot)
 📌 Overview
 
 A Spring Boot–based Hospital Management System that digitizes the traditional hospital token process by enabling online appointment booking, QR-based ticket validation, and real-time Email notifications.
